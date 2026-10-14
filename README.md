@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bordomey
-- 👀 I’m interested in memes
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on developing indie visual novel about school >///<
+- 👀 I’m interested in software development
+- 🌱 I’m currently learning
+
 - 📫 How to reach me zukepit3@gmail.com// tg:@bordomey
  
 <!---
